@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>DB Chord</ShortName>
+	<Description>Cari Kunci Gitar dan Lirik Lagu.</Description>
+	<InputEncoding>UTF-8</InputEncoding>
+	<Image width="16" height="16" type="image/x-icon">https://www.dbchord.com/favicon.ico</Image>
+	<Image width="64" height="64" type="image/jpg">https://lh4.googleusercontent.com/-34hv0eVBgMo/XLpLXKGovFI/AAAAAAAAAiY/VH4wyXpZVEkOonQKyOYmQC99PFWo6MUvgCLcBGAs/s400/64x64_circle.png</Image>
+	<Url type="text/html" method="get" template="https://www.dbchord.com/search?q={searchTerms}" />
+	<moz:SearchForm>https://www.dbchord.com/search</moz:SearchForm> 
+</OpenSearchDescription>
